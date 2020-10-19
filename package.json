@@ -1,6 +1,6 @@
 {
   "name": "jerry-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my cli tool",
   "main": "index.js",
   "repository": "git@github.com:jerry092383/jerry-cli.git",
@@ -10,6 +10,6 @@
     "commander": "^6.1.0"
   },
   "bin": {
-    "jerry": "./index.js"
+    "jerry": "./bin/command.js"
   }
 }
